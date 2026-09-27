@@ -1,0 +1,16 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" rx="80" fill="#FAFBFF"/>
+  <rect x="120" y="120" width="1360" height="960" rx="56" fill="white" stroke="#DDE7F5"/>
+  <rect x="180" y="184" width="280" height="40" rx="20" fill="#E8F4FF"/>
+  <rect x="180" y="260" width="460" height="68" rx="28" fill="#0EA5E9" fill-opacity="0.12"/>
+  <rect x="180" y="352" width="1140" height="28" rx="14" fill="#DCE7F7"/>
+  <rect x="180" y="404" width="1080" height="28" rx="14" fill="#DCE7F7"/>
+  <rect x="180" y="456" width="1120" height="28" rx="14" fill="#DCE7F7"/>
+  <rect x="180" y="540" width="640" height="390" rx="40" fill="#F3F7FC"/>
+  <rect x="860" y="540" width="460" height="180" rx="40" fill="#F3F7FC"/>
+  <rect x="860" y="750" width="460" height="180" rx="40" fill="#F3F7FC"/>
+  <circle cx="1240" cy="250" r="102" fill="#E8F4FF"/>
+  <circle cx="1188" cy="308" r="54" fill="#7C3AED" fill-opacity="0.12"/>
+  <text x="180" y="182" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="600">EduEarn</text>
+  <text x="180" y="226" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="28">AI Student Helper & Notes Marketplace</text>
+</svg>
